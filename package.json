@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/valiantcreative33/book-search-engine#readme",
   "dependencies": {
+    "graphql": "^15.5.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
